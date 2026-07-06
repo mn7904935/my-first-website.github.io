@@ -1,4 +1,12 @@
 #pargrh1{
-  color: lightblue;
-  height:24 px;
+  background-color: lightblue;
+  width: 640px;
+  height:240px;
+  padding: 40px;
+}
+#pargrh2{
+  background-color: antiquewhite;
+  width: 640px;
+  height:240px;
+  padding: 40px;
 }
